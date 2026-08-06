@@ -1,1 +1,1 @@
-# faraday-rotation-simulation
+# Faraday Rotation Simulation
