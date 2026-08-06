@@ -5,5 +5,5 @@ This is a program that simulates the angle of Faraday rotation of a magneto-opti
 Run the function in the Get_Faraday_Rotation file, a script that returns the angle of Faraday rotation for a material or thin film of nanoparticles. For the nanoparticle thin film, the Faraday rotation of the nanoparticle is calculated as the difference between the effective Faraday rotation of the nanoparticle/substrate system and that of the substrate alone. 
 
 # References
-[1] H. Majeed, A. Shaheen, and M.S. Anwar, "Complete Stokes polarimetry of magneto-optical Faraday effect in a terbium gallium garnet crystal at cryogenic temperatures," Opt. Express, OE 21(21), 25148–25158 (2013).
+[1] H. Majeed, A. Shaheen, and M.S. Anwar, "Complete Stokes polarimetry of magneto-optical Faraday effect in a terbium gallium garnet crystal at cryogenic temperatures," Opt. Express, OE 21(21), 25148–25158 (2013). \
 [2] Y. Huang, H. Chen, W. Dong, F. Pang, J. Wen, Z. Chen, and T. Wang, "Fabrication of europium-doped silica optical fiber with high Verdet constant," Opt. Express, OE 24(16), 18709–18717 (2016).
